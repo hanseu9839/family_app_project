@@ -39,3 +39,9 @@
 ## 화면 구성
 <img src="./imgs/4.png">
 <img src="./imgs/5.png">
+<img src="./imgs/6.png">
+<img src="./imgs/7.png">
+<img src="./imgs/9.png">
+<img src="./imgs/10.png">
+<img src="./imgs/11.png">
+<img src="./imgs/12.png">
