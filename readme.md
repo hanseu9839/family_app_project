@@ -45,3 +45,7 @@
 <img src="./imgs/10.png">
 <img src="./imgs/11.png">
 <img src="./imgs/12.png">
+
+
+# 작동 영상 
+작동 동영상을 보고 싶으면 옆을 클릭 ->[작동영상 Youtube_URL](https://www.youtube.com/watch?v=Rrr14pqlhxE)
