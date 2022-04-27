@@ -23,3 +23,19 @@
 |Server Version|5.7.34 - MySQL Community Server(GPL)|
 |Web Server|Apache/2.2.15(CentOS)|
 |API|Google Map API|
+
+<br>
+
+## 시스템 구조도
+<img src="./imgs/2.png">
+
+<br>
+
+## 데이터베이스 구조도(ERD)
+<img src="./imgs/3.png">
+
+<br>
+
+## 화면 구성
+<img src="./imgs/4.png">
+<img src="./imgs/5.png">
